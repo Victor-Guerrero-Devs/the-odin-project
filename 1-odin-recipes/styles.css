@@ -16,7 +16,7 @@ body {
 
 h2 {
   font-size: 2.5rem;
-  margin: 3.5rem 0 2rem 0;
+  margin: 0 0 2rem 0;
 }
 
 .page-title {
@@ -45,6 +45,10 @@ h2 {
 
 .recipe-list-container ul li {
   margin: 1rem;
+}
+
+ul {
+  margin-bottom: 3rem;
 }
 
 li {
